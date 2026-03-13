@@ -1,0 +1,254 @@
+# ===================================================================
+# Kubernetes Manifest - Combined Deployment for All Services
+# ===================================================================
+# This file contains all Kubernetes resources for the Quote Backend:
+# - MongoDB (Database)
+# - User Service
+# - Category Service  
+# - Quote Service
+#
+# HOW TO APPLY IN POWERSHELL (Windows):
+# ======================================
+# Option 1: Apply directly (recommended - single command)
+#   kubectl apply -f k8s-manifest.yaml
+#
+# Option 2: Use the PowerShell script
+#   .\apply-k8s.ps1
+#
+# Option 3: If you get execution policy error, run first:
+#   Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+#   Then: .\apply-k8s.ps1
+#
+# HOW TO APPLY IN BASH/LINUX/MAC:
+# ================================
+# Option 1: Apply directly (recommended - single command)
+#   kubectl apply -f k8s-manifest.yaml
+#
+# Option 2: Use the bash script
+#   chmod +x apply-k8s.sh
+#   ./apply-k8s.sh
+#
+# CHECK STATUS:
+# ============
+#   kubectl get pods
+#   kubectl get services
+#   kubectl get deployments
+#
+# DELETE ALL RESOURCES:
+# ====================
+#   kubectl delete -f k8s-manifest.yaml
+#
+# ===================================================================
+
+---
+# MongoDB Deployment
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mongo
+  labels:
+    app: mongo
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mongo
+  template:
+    metadata:
+      labels:
+        app: mongo
+    spec:
+      containers:
+      - name: mongo
+        image: mongo:latest
+        ports:
+        - containerPort: 27017
+        volumeMounts:
+        - name: mongo-data
+          mountPath: /data/db
+      volumes:
+      - name: mongo-data
+        persistentVolumeClaim:
+          claimName: mongo-pvc
+---
+# MongoDB Service
+apiVersion: v1
+kind: Service
+metadata:
+  name: mongo
+  labels:
+    app: mongo
+spec:
+  ports:
+  - port: 27017
+    targetPort: 27017
+  selector:
+    app: mongo
+  type: ClusterIP
+---
+# MongoDB PersistentVolumeClaim
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: mongo-pvc
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 5Gi
+---
+# User Service Deployment
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: quote-backend-user-service
+  labels:
+    app: quote-backend-user-service
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: quote-backend-user-service
+  template:
+    metadata:
+      labels:
+        app: quote-backend-user-service
+    spec:
+      containers:
+      - name: quote-backend-user-service
+        image: vaishali8160/quote-backend-user-service:latest
+        ports:
+        - containerPort: 4000
+        env:
+        - name: MONGO_URI
+          value: mongodb://mongo:27017/Users
+        resources:
+          requests:
+            memory: "128Mi"
+            cpu: "100m"
+          limits:
+            memory: "256Mi"
+            cpu: "200m"
+---
+# User Service
+apiVersion: v1
+kind: Service
+metadata:
+  name: quote-backend-user-service
+  labels:
+    app: quote-backend-user-service
+spec:
+  ports:
+  - port: 80
+    targetPort: 4000
+    nodePort: 30001
+  selector:
+    app: quote-backend-user-service
+  type: NodePort
+---
+# Category Service Deployment
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: quote-backend-category-service
+  labels:
+    app: quote-backend-category-service
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: quote-backend-category-service
+  template:
+    metadata:
+      labels:
+        app: quote-backend-category-service
+    spec:
+      containers:
+      - name: quote-backend-category-service
+        image: vaishali8160/quote-backend-category-service:latest
+        ports:
+        - containerPort: 4001
+        env:
+        - name: MONGO_URI
+          value: mongodb://mongo:27017/Category
+        - name: USER_SERVICE
+          value: http://quote-backend-user-service:80/api/Users
+        resources:
+          requests:
+            memory: "128Mi"
+            cpu: "100m"
+          limits:
+            memory: "256Mi"
+            cpu: "200m"
+---
+# Category Service
+apiVersion: v1
+kind: Service
+metadata:
+  name: quote-backend-category-service
+  labels:
+    app: quote-backend-category-service
+spec:
+  ports:
+  - port: 80
+    targetPort: 4001
+    nodePort: 30002
+  selector:
+    app: quote-backend-category-service
+  type: NodePort
+---
+# Quote Service Deployment
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: quote-backend-quote-service
+  labels:
+    app: quote-backend-quote-service
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: quote-backend-quote-service
+  template:
+    metadata:
+      labels:
+        app: quote-backend-quote-service
+    spec:
+      containers:
+      - name: quote-backend-quote-service
+        image: vaishali8160/quote-backend-quote-service:latest
+        ports:
+        - containerPort: 4002
+        env:
+        - name: MONGO_URI
+          value: mongodb://mongo:27017/Quote
+        - name: USER_SERVICE
+          value: http://quote-backend-user-service:80/api/Users
+        - name: SUBCATEGORY_SERVICE
+          value: http://quote-backend-category-service:80/api/sub-category
+        - name: CATEGORY_SERVICE
+          value: http://quote-backend-category-service:80/api/category
+        resources:
+          requests:
+            memory: "128Mi"
+            cpu: "100m"
+          limits:
+            memory: "256Mi"
+            cpu: "200m"
+---
+# Quote Service
+apiVersion: v1
+kind: Service
+metadata:
+  name: quote-backend-quote-service
+  labels:
+    app: quote-backend-quote-service
+spec:
+  ports:
+  - port: 80
+    targetPort: 4002
+    nodePort: 30003
+  selector:
+    app: quote-backend-quote-service
+  type: NodePort

@@ -1,0 +1,22 @@
+{
+  "name": "quote-backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bootstrap": "npm install && concurrently \"npm i --prefix ./user-service\" \"npm i --prefix ./category-service\" \"npm i --prefix ./quote-service\"",
+    "start": "concurrently \"node user-service/index.js\" \"node category-service/index.js\" \"node quote-service/index.js\"",
+    "dev": "npm run bootstrap && npm run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

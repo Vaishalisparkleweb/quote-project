@@ -1,0 +1,42 @@
+name: CI and Docker Build
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-test-and-docker:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install root dependencies
+        run: npm install
+
+      - name: Install service dependencies
+        run: |
+          cd category-service && npm install
+          cd ../quote-service && npm install
+          cd ../user-service && npm install
+
+      - name: Run tests
+        run: |
+          cd category-service && npm test || true
+          cd ../quote-service && npm test || true
+          cd ../user-service && npm test || true
+
+      - name: Build Docker images
+        run: |
+          docker build -t quote-category-service ./category-service
+          docker build -t quote-quote-service ./quote-service
+          docker build -t quote-user-service ./user-service

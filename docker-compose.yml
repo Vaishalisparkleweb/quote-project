@@ -1,0 +1,69 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo:latest
+    container_name: mongo
+    networks:
+      - app-network
+    ports:
+      - "27018:27017"
+    volumes:
+      - mongo_data:/data/db
+
+  user-service:
+    image: vaishali8160/quote-backend-user-service
+    build:
+      context: ./user-service
+    container_name: user-service
+    networks:
+      - app-network
+    ports:
+      - "4000:4000"
+    depends_on:
+      - mongo
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/Users
+
+  category-service:
+    image: vaishali8160/quote-backend-category-service
+    build:
+      context: ./category-service
+    container_name: category-service
+    networks:
+      - app-network
+    ports:
+      - "4001:4001"
+    depends_on:
+      - mongo
+      - user-service
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/Category
+      - USER_SERVICE=http://user-service:4000/api/Users
+
+  quote-service:
+    image: vaishali8160/quote-backend-quote-service
+    build:
+      context: ./quote-service
+    container_name: quote-service
+    networks:
+      - app-network
+    ports:
+      - "4002:4002"
+    depends_on:
+      - mongo
+      - user-service
+      - category-service
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/Quote
+      - USER_SERVICE=http://user-service:4000/api/Users
+      - SUBCATEGORY_SERVICE=http://category-service:4001/api/sub-category
+      - CATEGORY_SERVICE=http://category-service:4001/api/category
+
+volumes:
+  mongo_data:
+    driver: local
+
+networks:
+  app-network:
+    driver: bridge
