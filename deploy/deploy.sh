@@ -6,9 +6,9 @@ set -e
 cd "$(dirname "$0")/.."
 
 echo "Pulling latest images..."
-docker compose -f docker-compose.yml -f docker-compose.prod.yml pull
+docker-compose -f docker-compose.yml -f docker-compose.prod.yml pull
 
 echo "Starting services..."
-docker compose -f docker-compose.yml -f docker-compose.prod.yml up -d
+docker-compose -f docker-compose.yml -f docker-compose.prod.yml up -d
 
 echo "Deploy complete. API available at https://mern-demo.sparkleweb.co.in"
