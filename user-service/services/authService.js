@@ -125,6 +125,7 @@ const resetPassword = async (req, newPassword) => {
       algorithms: ["HS256"],
       issuer: "UserAPI",
       audience: "UserAPIUsers"
+      
     });
   const user = await User.findById(decoded.userId);
   if (!user) {
