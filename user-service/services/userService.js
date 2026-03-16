@@ -42,7 +42,11 @@ const createUser = async ({ name, email, phoneNumber, role, status, password }) 
 
   try {
     const savedUser = await newUser.save();
-    const token = jwt.sign({ userId: savedUser._id }, process.env.JWT_SECRET, { expiresIn: '1h' });
+    const token = jwt.sign({ userId: savedUser._id }, process.env.JWT_SECRET, {
+  issuer: "UserAPI",
+  audience: "UserAPIUsers",
+  expiresIn: "1h"
+});
     await sendConfirmationEmail(email, token);
     return savedUser;
   } catch (error) {

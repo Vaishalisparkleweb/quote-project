@@ -1,0 +1,337 @@
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\appsettings.json
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\UserManagementAPI.staticwebassets.endpoints.json
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\UserManagementAPI.exe
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\UserManagementAPI.deps.json
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\UserManagementAPI.runtimeconfig.json
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\UserManagementAPI.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\UserManagementAPI.pdb
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Humanizer.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.csproj.AssemblyReference.cache
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.AssemblyInfoInputs.cache
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.AssemblyInfo.cs
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.csproj.CoreCompileInputs.cache
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\scopedcss\bundle\UserManagementAPI.styles.css
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserMana.72BC9F28.Up2Date
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\refint\UserManagementAPI.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.pdb
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.genruntimeconfig.cache
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\obj\Debug\net8.0\ref\UserManagementAPI.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\EPPlus.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.barcodes.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.forms.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.io.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.kernel.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.layout.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.pdfa.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.pdfua.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.sign.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.styledxmlparser.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.svg.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.commons.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Hardik\NEWProject\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.bouncy-castle-adapter.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\appsettings.json
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\UserManagementAPI.staticwebassets.endpoints.json
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\UserManagementAPI.exe
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\UserManagementAPI.deps.json
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\UserManagementAPI.runtimeconfig.json
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\UserManagementAPI.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\UserManagementAPI.pdb
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\EPPlus.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\EPPlus.Interfaces.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Humanizer.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.barcodes.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.bouncy-castle-connector.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.forms.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.io.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.kernel.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.layout.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.pdfa.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.pdfua.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.sign.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.styledxmlparser.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.svg.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.bouncy-castle-adapter.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\itext.commons.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.csproj.AssemblyReference.cache
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.AssemblyInfoInputs.cache
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.AssemblyInfo.cs
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.csproj.CoreCompileInputs.cache
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\scopedcss\bundle\UserManagementAPI.styles.css
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.UserManagementAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.UserManagementAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.UserManagementAPI.props
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserManagementAPI.props
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserManagementAPI.props
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserMana.72BC9F28.Up2Date
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\refint\UserManagementAPI.dll
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.pdb
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\UserManagementAPI.genruntimeconfig.cache
+D:\Projects\Quote-NET\user-service-net 1\user-service-net\UserManagementAPI\obj\Debug\net8.0\ref\UserManagementAPI.dll

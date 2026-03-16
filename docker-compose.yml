@@ -14,16 +14,19 @@ services:
   user-service:
     image: vaishali8160/quote-backend-user-service
     build:
-      context: ./user-service
+      context: ./user-service-net
+      dockerfile: Dockerfile
     container_name: user-service
     networks:
       - app-network
     ports:
       - "4000:4000"
-    depends_on:
-      - mongo
     environment:
-      - MONGO_URI=mongodb://mongo:27017/Users
+      - ASPNETCORE_ENVIRONMENT=Development
+      # Same JWT key as category/quote services - must match for token validation ($ escaped as $$)
+      - Jwt__Key=5X#b1@r3Gt!A8qJ*2C!u$$z0Xw@o1S#l9K$$m6H
+      - Jwt__Issuer=UserAPI
+      - Jwt__Audience=UserAPIUsers
 
   category-service:
     image: vaishali8160/quote-backend-category-service
@@ -40,6 +43,8 @@ services:
     environment:
       - MONGO_URI=mongodb://mongo:27017/Category
       - USER_SERVICE=http://user-service:4000/api/Users
+      # Must match Jwt:Key in user-service (user-service-net) for JWT verification ($ escaped as $$)
+      - JWT_SECRET=5X#b1@r3Gt!A8qJ*2C!u$$z0Xw@o1S#l9K$$m6H
 
   quote-service:
     image: vaishali8160/quote-backend-quote-service
@@ -59,6 +64,8 @@ services:
       - USER_SERVICE=http://user-service:4000/api/Users
       - SUBCATEGORY_SERVICE=http://category-service:4001/api/sub-category
       - CATEGORY_SERVICE=http://category-service:4001/api/category
+      # Must match Jwt:Key in user-service (user-service-net) for JWT verification ($ escaped as $$)
+      - JWT_SECRET=5X#b1@r3Gt!A8qJ*2C!u$$z0Xw@o1S#l9K$$m6H
 
 volumes:
   mongo_data:

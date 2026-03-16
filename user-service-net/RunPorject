@@ -1,0 +1,11 @@
+dotnet clean
+dotnet build
+dotnet ef migrations add InitialCreate
+dotnet ef database update  
+dotnet watch
+
+Connection String:
+
+"ConnectionStrings": {
+    "DefaultConnection": "Server=DESKTOP8;Database=UserDB;User Id=sa;Password=Web@123;TrustServerCertificate=True;"
+}

@@ -45,7 +45,11 @@ const registerUser = async ({ name, email, phoneNumber, role, status, password }
 
   try {
     const savedUser = await newUser.save();
-    const token = jwt.sign({ userId: savedUser._id }, process.env.JWT_SECRET, { expiresIn: '1h' });
+    const token = jwt.sign({ userId: savedUser._id }, process.env.JWT_SECRET, {
+  issuer: "UserAPI",
+  audience: "UserAPIUsers",
+  expiresIn: "1h"
+});
     await sendConfirmationEmail(email, token);
     return savedUser;
   } catch (error) {
@@ -68,7 +72,11 @@ const loginUser = async (email, password) => {
     throw new Error('Invalid email or password');
   }
 
-  const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET, { expiresIn: '1h' });
+  const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET, {
+  issuer: "UserAPI",
+  audience: "UserAPIUsers",
+  expiresIn: "1h"
+});
   return { token, user };
 };
 
@@ -100,7 +108,7 @@ const forgotPassword = async (email) => {
     throw new Error('Email is not registered');
   }
 
-  const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET, { expiresIn: '1h' });
+  const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET, { expiresIn: '1h',algorithm: "HS256", });
   await sendResetPasswordEmail(email, token);
   
   return { message: 'Reset password email sent' };
@@ -113,7 +121,11 @@ const resetPassword = async (req, newPassword) => {
     throw new Error('Token not provided');
   }
 
-  const decoded = jwt.verify(token, process.env.JWT_SECRET);
+  const decoded = jwt.verify(token, process.env.JWT_SECRET, {
+      algorithms: ["HS256"],
+      issuer: "UserAPI",
+      audience: "UserAPIUsers"
+    });
   const user = await User.findById(decoded.userId);
   if (!user) {
     throw new Error('User not found');
