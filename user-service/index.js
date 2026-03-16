@@ -14,6 +14,8 @@ app.use(cors({
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   credentials: true,
 }));
+
+
 app.use('/api', authRoutes);
 app.use('/api/users', userRoutes);
 app.use('/api/sync', syncRoutes);
