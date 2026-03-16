@@ -123,6 +123,17 @@ spec:
         env:
         - name: MONGO_URI
           value: mongodb://mongo:27017/Users
+        - name: JWT_SECRET
+          value: 5X#b1@r3Gt!A8qJ*2C!u$$z0Xw@o1S#l9K$$m6H
+        - name: ASPNETCORE_ENVIRONMENT
+          value: Development
+        - name: Jwt__Key
+          value: 5X#b1@r3Gt!A8qJ*2C!u$$z0Xw@o1S#l9K$$m6H
+        - name: Jwt__Issuer
+          value: UserAPI
+        - name: Jwt__Audience
+          value: UserAPIUsers
+
         resources:
           requests:
             memory: "128Mi"
@@ -174,6 +185,21 @@ spec:
           value: mongodb://mongo:27017/Category
         - name: USER_SERVICE
           value: http://quote-backend-user-service:80/api/Users
+        - name: JWT_SECRET
+          value: 5X#b1@r3Gt!A8qJ*2C!u$$z0Xw@o1S#l9K$$m6H
+        - name: SUBCATEGORY_SERVICE
+          value: http://quote-backend-category-service:80/api/sub-category
+        - name: CATEGORY_SERVICE
+          value: http://quote-backend-category-service:80/api/category
+        - name: USER_SERVICE
+          value: http://quote-backend-user-service:80/api/Users
+        - name: Jwt__Key
+          value: 5X#b1@r3Gt!A8qJ*2C!u$$z0Xw@o1S#l9K$$m6H
+        - name: Jwt__Issuer
+          value: UserAPI
+        - name: Jwt__Audience
+          value: UserAPIUsers
+
         resources:
           requests:
             memory: "128Mi"
@@ -229,6 +255,15 @@ spec:
           value: http://quote-backend-category-service:80/api/sub-category
         - name: CATEGORY_SERVICE
           value: http://quote-backend-category-service:80/api/category
+        - name: JWT_SECRET
+          value: 5X#b1@r3Gt!A8qJ*2C!u$$z0Xw@o1S#l9K$$m6H
+        - name: Jwt__Key
+          value: 5X#b1@r3Gt!A8qJ*2C!u$$z0Xw@o1S#l9K$$m6H
+        - name: Jwt__Issuer
+          value: UserAPI
+        - name: Jwt__Audience
+          value: UserAPIUsers
+          
         resources:
           requests:
             memory: "128Mi"
